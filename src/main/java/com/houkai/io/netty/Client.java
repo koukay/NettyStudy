@@ -26,7 +26,6 @@ public class Client {
                     }else {
                         System.out.println("connected!");
                     }
-
                 }
             });
             f.sync();
